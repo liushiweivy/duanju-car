@@ -1,0 +1,4 @@
+latents/
+__pycache__/
+logs/
+*.pyc
